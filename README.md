@@ -32,7 +32,7 @@ Facilitar o processo de organização das informações necessárias para a decl
 
 ---
 
-> **Nota:** Este projeto foi desenvolvido com fins organizacionais pessoais e pode ser adaptado para outros contextos conforme necessário.
+> **Nota:** Este projeto foi desenvolvido com fins de estudos pessoais durante o curso de Excel com Inteligência Artifical da Santander Open Academy juntamente da DIO e pode ser adaptado para outros contextos conforme necessário.
 
 ## Autor
 
